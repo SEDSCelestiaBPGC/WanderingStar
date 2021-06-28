@@ -6,7 +6,7 @@ date: "April 12, 2020"
 tags: ["Galaxies", "Lecture", "Matt Malkan", "UCLA"]
 category: ["Messrier Series", "Observations"]
 type: Event
-image: "../assets/posts/Celestia/SEDSLogoblack.png"
+image: "assets/posts/Celestia/SEDSLogoblack.png"
 ---
 
 ## Lecture by Prof. Matthew A. Malkan, UCLA
