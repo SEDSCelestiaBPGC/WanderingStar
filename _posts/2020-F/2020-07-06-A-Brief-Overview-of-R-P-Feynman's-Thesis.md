@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "A Brief Overview of R P Feynman’s Thesis"
-author: "Bhuvan S V"
-date: "6 July, 2020"
+author: Bhuvan S V
 tags: ["Astrophysics", "Author:Bhuvan S V", "Physics", "RP Feyman", "Science", "SEDS Celestia"]
 category: "Science"
 type: Blog

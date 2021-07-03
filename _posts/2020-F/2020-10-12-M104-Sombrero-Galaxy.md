@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "M104 – Sombrero Galaxy"
-author: "Bhuvan S V"
+author: Bhuvan S V
 date: "October 12, 2020"
 tags: ["Author:Bhuvan S V", "Galaxies", "Messier Objects", "Messier series", "Observations", "SEDS Celestia", "Skywatching", "Sombrero Galaxy"]
 category: "Uncategorized"

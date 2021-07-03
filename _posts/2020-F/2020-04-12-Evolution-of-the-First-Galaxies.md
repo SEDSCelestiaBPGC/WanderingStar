@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The Evolution of the First Galaxies"
-author: "Aeishna Khaund"
+author: Aeishna Khaund
 date: "April 12, 2020"
 tags: ["Galaxies", "Lecture", "Matt Malkan", "UCLA"]
 category: ["Messrier Series", "Observations"]

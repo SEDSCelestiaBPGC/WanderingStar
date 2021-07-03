@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Perplexing Paradoxes"
-author: "Kaustubh Murudkar"
+author: Neil Shah
 date: "August 10, 2020"
 tags: ["Maths", "paradox"]
 category: "Science"
@@ -82,7 +81,7 @@ Initial distance between  A and T = 1 unit
 
 Relative speed of  A with respect to  T = (1 – 0.5) unit/s = 0.5 unit/s
 
-Time taken for  A to catch up to  T = Distance/ Rel. Speed = 1/0.5 = **2 seconds**
+Time taken for  A to catch up to  T = Distance/ Rel. Speed = 1/0.5 = **2 seconds**\
 **Which is the same as we got from above.**
 
 This is a very surprising result as calculating S from the above equation requires the use of modern mathematics. This means proving this paradox took about 2000 years! This paradox is an example of **Falsidical** Paradox since the reasoning does not take into consideration that infinite series may be convergent and give a finite value. For about 2000 years Achilles paradox was thought to be an Antinomy. This just goes to say that some paradoxes which we may think are antimonies may be proven to be Falsidical by using some even more advanced tools.
@@ -95,19 +94,20 @@ $$ * $$
 
 Theseus was thinking one day when I replace one of the planks on my ship, it still remains my ship. Let me replace another plank, well it is still my ship. Now if I keep doing this and one by one all the original pieces are replaced by a new piece, is this still my ship? Furthermore if I use the old pieces and place them perfectly in the same position as they were originally, which one truly is my ship?
 
-Resolution: There are many theories on the resolution of this Paradox, but the most compelling one is the “gradual loss of identity over time”. As the parts of the ship are replaced, the identity of the ship gradually changes. At any given instance, instead of saying that it is still the same ship, it would be more accurate to say it is a “replica” of the original ship. As the parts are replaced, the new boat becomes exactly that; a new boat. This theory suggests that the ship made from the original parts in the same position as before will be the original ship, as those parts are the actual pieces that participated in Theseus’ journeys.
+**Resolution**: There are many theories on the resolution of this Paradox, but the most compelling one is the “gradual loss of identity over time”. As the parts of the ship are replaced, the identity of the ship gradually changes. At any given instance, instead of saying that it is still the same ship, it would be more accurate to say it is a “replica” of the original ship. As the parts are replaced, the new boat becomes exactly that; a new boat. This theory suggests that the ship made from the original parts in the same position as before will be the original ship, as those parts are the actual pieces that participated in Theseus’ journeys.
 
-Who am I?. I am the sum total of my experiences | by Soham Dutta ...A constantly changing identity begs the question of “Who am I”?
+![Who am I?. I am the sum total of my experiences | by Soham Dutta](https://i.imgur.com/bwlEGFjm.png)\
+ *A constantly changing identity begs the question of “Who am I”?*
 
-Amazing consequence of this resolution is that You are not the same You from 7 years ago. As all of the cells that make up your body get renewed completely in around 7 years. So the person you look at in your old photos is not You but a replica of You from 7 years ago.
+**Amazing consequence** of this resolution is that You are not the same You from 7 years ago. As all of the cells that make up your body get renewed completely in around 7 years. So the person you look at in your old photos is not You but a replica of You from 7 years ago.
 
 $$ * $$
 
-Drinker’s Paradox
+### Drinker’s Paradox
 
-Statement: At a club, there always exists a particular person such that if he is a drinker, then everyone else present at the club is a drinker.
+**Statement**: At a club, there always exists a particular person such that if he is a drinker, then everyone else present at the club is a drinker.
 
-Resolution: the apparently paradoxical nature of the statement comes from the way it is naturally stated. It seems counterintuitive that there could be a person who is causing others to drink. To prove this statement let me first explain what “vacuously true” statements are.
+**Resolution**: the apparently paradoxical nature of the statement comes from the way it is naturally stated. It seems counterintuitive that there could be a person who is causing others to drink. To prove this statement let me first explain what “**vacuously true**” statements are.
 
 Vacuously true statements are statements which are true only because the antecedent cannot be satisfied.
 
@@ -121,11 +121,11 @@ First, where everyone at the club is a drinker. Hence we may choose any person a
 
 Second, where one or more than one at the club is not a drinker. If we choose one of the non-drinkers, then the first part of the statement is not satisfied (that if a particular person drinks…), hence the following part of the statement holds no truth value and hence is a true statement. We could have even said “if a non drinker drinks, then earth is flat”. This would still be logically true as the statement forms a vacuous truth.
 
-This Paradox is a Veridical Paradox as it is simply a play with words and after a bit of explanation the truth emerges within the statement itself.
+This Paradox is a **Veridical** Paradox as it is simply a play with words and after a bit of explanation the truth emerges within the statement itself.
 
-Amazing Consequence of this is every time you find yourself alone in the room; remember that you are the smartest, loveliest, best looking and healthiest person in that room.😉
+**Amazing Consequence** of this is every time you find yourself alone in the room; remember that you are the smartest, loveliest, best looking and healthiest person in that room.😉
 
-$$ ¯\setminus\_(ツ)\_/¯ $$
+$$ ¯\backslash\_(ツ)\_/¯ $$
 
 $$ * $$
 
@@ -148,22 +148,26 @@ $$ * $$
 A stair has height of 3 and width 4. So an ant crawling from the bottom to the top will have to cover a distance of 7. Now the stair is divided into two stairs of height 1.5 and width 2 each. Still the ant has to cover a distance of 7.  Keep repeating the process of dividing the stairs into smaller and smaller stairs. Now suddenly we see something like a hypotenuse of a triangle. And by Pythagorus’ theorem we get that the length of that hypotenuse is 5. So herein lies the paradox, does the ant walk 5 units or 7 units? Or is **5=7**?!
 Pythagorean "Paradox" (right-angled triangle). - Mathematics Stack ...
 
+![Staircase Paradow](https://i.imgur.com/dHtrL8zm.png)
+
 *(Spoiler alert: while you are thinking about this, also think about fractals* 😉*)*
 
 ### Expired poison
 
-Statement: Is an expired poison more poisonous or is it harmless?
+**Statement**: Is an expired poison more poisonous or is it harmless?
 
 ### Gabriel’s Horn
 
-Gabriel’s horn is a mathematical object with finite volume but infinite surface area. This in simple terms means that if we try to paint the inside of the horn, you will always run out of paint, but if we pour the paint into the horn, it will fill the horn using a finite volume of paint. *vsauce theme plays in the background.*
+Gabriel’s horn is a mathematical object with finite volume but infinite surface area. This in simple terms means that if we try to paint the inside of the horn, you will always run out of paint, but if we pour the paint into the horn, it will fill the horn using a finite volume of paint.
+*vsauce theme plays in the background.*
 
-Gabriel's Horn | Brilliant Math & Science Wiki
+![Gabriel's Horn - Brilliant Math & Science Wiki](https://i.imgur.com/wCQVfb0l.png)
 
 ### Buridan’s Ass
 
-Statement: A donkey is kept exactly between two identical stacks of hay. The Hay are of identical size, shape and emit identical odour (basically the same in all aspects). How will the donkey ever choose which hay to go for first? Will it simply starve itself to death because there are two perfectly identical foods available for it and it cannot decide?
-Buridan's Ass: Why More Is Less (and What to Do About It)
+**Statement**: A donkey is kept exactly between two identical stacks of hay. The Hay are of identical size, shape and emit identical odour (basically the same in all aspects). How will the donkey ever choose which hay to go for first? Will it simply starve itself to death because there are two perfectly identical foods available for it and it cannot decide?
+
+![Buridan's Ass: Why More Is Less (and What to Do About It)](https://i.imgur.com/9gB3evbm.png)
 
 ### Omnipotent God
 

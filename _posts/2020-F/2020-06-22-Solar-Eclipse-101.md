@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solar Eclipse 101"
-author: "Kaustubh Murudkar"
+author: Kaustubh Murudkar
 date: "October 12, 2020"
 tags: ["annular", "Astrophysics", "author:Kaustubh MurudKar", "earth", "event", "moon", "Mythology", "Observations", "penumbra", "sun"]
 category: "Uncategorized"
